@@ -1,0 +1,23 @@
+================================================================================
+GNN-BASED NOMA PAIRING - INFERENCE SUMMARY
+================================================================================
+
+Test Graph: D:/Developer/NOMA_new/main code/results/results_20251015_173035/h_values.csv
+Total Users: 2000
+
+PERFORMANCE METRICS:
+--------------------------------------------------------------------------------
+GNN Method:
+  - NOMA Pairs: 935
+  - Sum Rate: 14667.28 bits/s/Hz
+  - Throughput: 275.44 Mbps
+  - Time: 1041.6383 seconds
+
+Bipartite PF Method:
+  - NOMA Pairs: 935
+  - Sum Rate: 14632.49 bits/s/Hz
+  - Throughput: 274.79 Mbps
+  - Time: 6.6597 seconds
+
+Relative Performance: 100.24%
+SIC Violations: 0

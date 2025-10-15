@@ -15,7 +15,7 @@ from matplotlib.patches import Circle
 # https://www.etsi.org/deliver/etsi_tr/138900_138999/138901/16.01.00_60/tr_138901v160100p.pdf?
 
 np.random.seed(int(time.time()))
-N, radius = 500, 5000  # Users, cell radius (m)
+N, radius = 2000, 5000  # Users, cell radius (m)
 fc, c = 3.5e9, 3e8  # Carrier frequency (Hz), speed of light (m/s)
 lambda_c = c / fc  # Wavelength (m)
 h_BS = 25  # Base station height (m)
